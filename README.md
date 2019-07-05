@@ -2,6 +2,9 @@
 
 ## Introduction
 (Mostly) Python re-implementation of Onto2Vec.
+
+Based on the paper: *Onto2Vec: joint vector-based representation of biological entities and their ontology-based annotations* by Fatima Zohra Smaili, Xin Gao, and Robert Hoehndorf. 2018. https://academic.oup.com/bioinformatics/article/34/13/i52/5045776
+
 The original version in Perl can be found at: https://github.com/bio-ontology-research-group/onto2vec/
 
 ## Dependencies
