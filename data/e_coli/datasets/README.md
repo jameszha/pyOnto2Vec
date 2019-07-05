@@ -1,6 +1,6 @@
 # E. Coli Datasets
 - ```ecocyc.gaf``` contains GO annotations for yeast proteins.
-- ```511145.protein.links.v11.0.txt.gz``` contains (a compressed file of) scored links between pairs of E. coli proteins. Useful for evaluating the generated yeast embeddings in terms of protein-protein interaction prediction.
+- ```511145.protein.links.v11.0.txt.gz``` contains (a compressed file of) scored links between pairs of E. coli proteins. Useful for evaluating the generated E. coli embeddings in terms of protein-protein interaction prediction.
   - Uncompress using ```gunzip 511145.protein.links.v11.0.txt.gz```
 
 The following are the download links for the datasets used to generate the E coli. embeddings.
