@@ -1,4 +1,8 @@
 # Yeast Datasets
+- ```goslim_yeast.owl``` contains a subset of the full GO tree pertaining specifically to yeast.
+- ```sgd.gaf``` contains GO annotations for yeast proteins.
+- ```4932.protein.links.v11.0.txt.gz``` contains scored links between pairs of yeast proteins. Useful for evaluating the generated yeast embeddings in terms of protein-protein interaction prediction.
+
 The following are the download links for the datasets used to generate the yeast embeddings. All of the following sources were downloaded on June 3, 2019.
 
 - GO subset for yeast: http://geneontology.org/docs/go-subset-guide/ 
