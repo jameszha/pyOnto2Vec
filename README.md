@@ -1,7 +1,7 @@
 # pyOnto2Vec
 
 ## Introduction
-(Mostly) Python re-implementation of Onto2Vec.
+(Mostly) Python re-implementation of Onto2Vec. The functionality of these scripts remain unchanged; however, these implementations are largely more efficient, output useful statistics, and are in Python (need we say more?). 
 
 Based on the paper: *Onto2Vec: joint vector-based representation of biological entities and their ontology-based annotations* by Fatima Zohra Smaili, Xin Gao, and Robert Hoehndorf. 2018. https://academic.oup.com/bioinformatics/article/34/13/i52/5045776
 
