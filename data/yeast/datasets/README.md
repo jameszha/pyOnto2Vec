@@ -2,7 +2,7 @@
 - ```goslim_yeast.owl``` contains a subset of the full GO tree pertaining specifically to yeast.
 - ```sgd.gaf``` contains GO annotations for yeast proteins.
 - ```4932.protein.links.v11.0.txt.gz``` contains (a compressed file of) scored links between pairs of yeast proteins. Useful for evaluating the generated yeast embeddings in terms of protein-protein interaction prediction.
-  Uncompress using ```gunzip 4932.protein.links.v11.0.txt.gz```.
+  - Uncompress using ```gunzip 4932.protein.links.v11.0.txt.gz```
 
 The following are the download links for the datasets used to generate the yeast embeddings. All of the following sources were downloaded on June 3, 2019.
 
