@@ -3,6 +3,8 @@
 - ```sgd.gaf``` contains GO annotations for yeast proteins.
 - ```4932.protein.links.v11.0.txt.gz``` contains (a compressed file of) scored links between pairs of yeast proteins. Useful for evaluating the generated yeast embeddings in terms of protein-protein interaction prediction.
   - Uncompress using ```gunzip 4932.protein.links.v11.0.txt.gz```
+- ```4932.protein.actions.v11.0.txt.gz```contains (a compressed file of) interaction types between pairs of yeast proteins. Useful for evaluating the generated yeast embeddings in terms predicting the type of protein-protein interaction.
+  - Uncompress using ```gunzip 4932.protein.actions.v11.0.txt.gz```
 
 The following are the download links for the datasets used to generate the yeast embeddings. All of the following sources were downloaded on June 3, 2019.
 
